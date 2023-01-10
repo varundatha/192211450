@@ -1,0 +1,5 @@
+a=list(input("enter the value"))
+b=list(input("enter the value"))
+c=a+b
+d=sorted(c)
+print(d)
